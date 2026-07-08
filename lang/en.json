@@ -1,0 +1,13 @@
+{
+    "app_name": "HTTP Tools",
+    "menu_home": "Home",
+    "menu_settings": "Settings",
+    "menu_about": "About",
+
+    "button_ok": "OK",
+    "button_cancel": "Cancel",
+    "button_save": "Save",
+
+    "error_network": "Network connection error",
+    "error_unknown": "Unknown error"
+}
